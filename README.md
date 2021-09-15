@@ -3,7 +3,7 @@ In some applications, we need to make changes to an image to make it clearer. fo
 
 # Given Images
 <p align="center">
-  <img width="960" height="1280" src="./book.jpg">
+  <img width="480" height="640" src="./books.jpg">
 </p>
 
 # Results
